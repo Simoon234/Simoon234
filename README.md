@@ -6,11 +6,6 @@
 
 I am Junior Full-Stack JavaScript developer. I am 24 years old. Live in Warsaw. 
 
-- :rocket: I'm learning for about year and a half. 
-
-- :smile: Started with APIS, but later one, I have started learning React. 
-
-
 
 <div id="header" direction="column" margin>
   <img src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47ixobiz1dfh31yx3igmy93sxmu424jgrme8jy0smo&rid=giphy.gif&ct=g" width="100"/>
