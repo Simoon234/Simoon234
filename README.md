@@ -4,7 +4,9 @@
 
 ### :man_technologist: About Me :
 
-I am Junior Full-Stack JavaScript developer. I am 24 years old. Live in Warsaw. 
+Junior Full-Stack JavaScript developer. 👨‍💻👋
+
+Live in Warsaw 🏙️🌆🌇
 
 
 <div id="header" direction="column" margin>
