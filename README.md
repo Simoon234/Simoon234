@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 
-Junior Full-Stack JavaScript developer. 👨‍💻👋
+Junior Front-end & Node JS Developer. 👨‍💻👋
 
 Live in Warsaw 🏙️🌆🌇
 
