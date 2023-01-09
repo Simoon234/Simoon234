@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 
-Junior React & Node JS Developer. 👨‍💻👋
+Junior React & Node Developer. 👨‍💻👋
 
 Live in Warsaw 🏙️🌆🌇
 
